@@ -31,6 +31,7 @@ fun main()
             else -> "Кирпич не проходит в отверстие"
         }
 
+        println(otvet)
 
 
     }

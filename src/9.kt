@@ -1,4 +1,4 @@
-import java.lang.NumberFormatException
+    import java.lang.NumberFormatException
 
 fun main()
 {
